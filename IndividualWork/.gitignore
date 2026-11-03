@@ -1,0 +1,57 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+artifacts/
+# Visual Studio user settings and workspace
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# JetBrains Rider / ReSharper
+.idea/
+*.sln.iml
+riderModule.iml
+_ReSharper.Caches/
+*.DotSettings.user
+
+# NuGet packages and generated files
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+# Test and coverage output
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+
+# Logs, caches, and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
+*.pidb
+*.svclog
+
+# Publish output
+publish/
+*.pubxml.user
+
+# Windows-generated files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS-generated files (useful in shared repositories)
+.DS_Store
